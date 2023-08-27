@@ -1,4 +1,4 @@
-### 공식 문서에 따르면 요청 수신부터 응답까지 일반적으로 아래와 같은 순서로 진행된다고 한다.
+### Request Lifecycle
 
 1. Incoming request
 2. Middleware
