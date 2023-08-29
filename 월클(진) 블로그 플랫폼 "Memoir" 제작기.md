@@ -51,8 +51,4 @@
 당장은 댓글 및 좋아요 기능을 생각 중이다.
 
 
-
-
-
-
-![image](https://d1ccleacxg8gcm.cloudfront.net/JeongCheolLee/images/idg5ca1j9agd.png)
+![image](https://d1ccleacxg8gcm.cloudfront.net/JeongCheolLee/images/3eb2032d819de.png)
