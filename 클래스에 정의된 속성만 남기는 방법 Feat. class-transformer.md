@@ -1,1 +1,1 @@
-![image](https://d1ccleacxg8gcm.cloudfront.net/JeongCheolLee/images/gc68iai027c.jpeg)
+![image](https://d1ccleacxg8gcm.cloudfront.net/JeongCheolLee/images/85b5hbeig46j6.png)
