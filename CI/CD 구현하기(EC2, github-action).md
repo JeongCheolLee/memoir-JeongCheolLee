@@ -32,31 +32,33 @@ permissions:
 jobs:
   deploy:
     name: Deploy
-    runs-on: self-hosted //이 부분을 통해 github action 에게 self-hosted runner에서 아래 steps 가 실행될 것이란걸 알림
+    runs-on: prod-self-hosted
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Install dependency
-        id: install
-        run: |
-          npm install
-
       - name: Git Pull
         id: gitpull
+        working-directory: /home/ubuntu/memoir-server
         run: |
           git pull origin main
 
+      - name: Install dependency
+        id: install
+        working-directory: /home/ubuntu/memoir-server
+        run: |
+          npm install
+
       - name: build
         id: build
+        working-directory: /home/ubuntu/memoir-server
         run: |
           npm run build
 
       - name: PM2 reload
         id: reload
+        working-directory: /home/ubuntu/memoir-server
         run: |
           npm run reload:prod
+
 
 ```
 
