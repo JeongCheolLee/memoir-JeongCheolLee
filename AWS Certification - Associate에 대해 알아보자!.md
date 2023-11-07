@@ -17,7 +17,7 @@ FOUNDATIONAL -> ASSOCIATE -> PROFESIONAL -> SPECIALTY
 
  보통 한 번에 PROFESSIONAL을 취득하기보단 ASSOCIATE를 먼저 따고 PROFESSIONAL을 취득한다. 그 이유를 살펴보면,, ASSOCIATE는 $150의 시험료를 내야하고, PROFESSIONAL은 $300의 시험료를 내야 한다.
 
-하지만 AWS Certification의 경우 한 번 시험을 통과하게 되면 다음 시험의 50% 할인 쿠폰을 준다. 그래서 ASSOCIATE 합격 후 PROFESSIONAL의 응시료는 $300이 되므로 경제적이고 안정적으로 자격증을 취득할 수 있기 때문이다.
+하지만 AWS Certification의 경우 한 번 시험을 통과하게 되면 다음 시험의 50% 할인 쿠폰을 준다. 그래서 ASSOCIATE 합격 후 PROFESSIONAL의 응시료는 $150이 되므로 경제적이고 안정적으로 자격증을 취득할 수 있기 때문이다.
 
 좋은 전략이다. 나도 ASSOCIATE로 시작하자!
 
